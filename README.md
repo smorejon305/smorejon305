@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smorejon305
+- 👋 Hi, I’m Stefanie.
 - 👀 I’m interested in languages, acquiring new skills, things done well 
 - 🌱 I’m currently learning JavaScript! 
-- 💞️ I’m looking to collaborate on all of it! 
+- 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 Send me a message at smorejon.com!                                                                                                     
 
 <!---
