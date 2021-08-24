@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stefanie. I'm switching over to tech from education - I've been an English teacher for 15+ years! 
 - 👀 I’m interested in design, language, acquiring new skills, things done well 
 - 🌱 I’m currently developing my HTML, CSS, and JS skills, and enthusiastically learning REACT 💪
-- 💞️ I’m looking to collaborate on interesting projects, freelancing, and looking for PT and FT positions. 
+- 💞️ I’m looking to collaborate on interesting projects, freelancing, and looking for development positions. 
 - 📫 Send me a message at smorejon.com!                                                                                                     
 
 <!---
