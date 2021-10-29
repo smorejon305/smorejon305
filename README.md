@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, language, acquiring new skills, things done well 
 - 🌱 I’m currently developing my HTML, CSS, and JS skills, and enthusiastically learning REACT 💪
 - 💞️ I’m looking to collaborate on interesting projects, freelancing, and looking for development positions. 
-- 📫 Send me a message at smorejon.com!                                                                                                     
+- 📫 Check out my portfolio at smorejon.com!                                                                                                     
 
 <!---
 smorejon305/smorejon305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
