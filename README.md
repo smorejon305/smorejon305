@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefanie.
 - 👀 I’m interested in effective design, beautiful interfaces, language, acquiring new skills, and things done well. 
-- 🌱 I’m a web designer and developer working primarily in HTML, CSS and JavaScript, and React.
+- 🌱 I’m a visual identity, web design, and web development consulting working with clients to craft online experiences that get their unique message to their ideal customers. 
 - 🌴 I’m always looking to collaborate on interesting projects! Send me a message if you have an idea you'd like to get off the ground!
 - 👩‍💻 Learn more at smorejon.com                                                                                                    
 
